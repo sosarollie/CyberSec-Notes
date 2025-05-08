@@ -22,6 +22,7 @@ Cryptography’s ultimate purpose is to ensure _secure communication in the pres
 
 ---
 ### Diffie-Hellman key exchange
+
 ![2. Source Material/Career/Images/5f04259cf9bf5b57aed2c476-1728439878360.svg](../../../../../7.%20Images/5f04259cf9bf5b57aed2c476-1728439878360%201.svg)
 
 ---
