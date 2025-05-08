@@ -1,5 +1,3 @@
-### Day 8/365
-
 Using static address assignment, the network administrator has to manually configure the network information for a host (IPv4 ad, mask and gateway). Although it can provide increased control of network resources, it is also time consuming and the need to maintain an accurate list arises.
 IPv4 addresses can be assigned automatically using DHCP (Dynamic host connection protocol), and it is generally the preferred method, reduces the burden on network support staff and eliminates entry errors, hosts "borrow" an address instead of owning it.
 With home networks, the DHCP server may be located at the ISP and a host on the home network receives its IPv4 config directly from the ISP, the wireless router is both a DHCP client and server

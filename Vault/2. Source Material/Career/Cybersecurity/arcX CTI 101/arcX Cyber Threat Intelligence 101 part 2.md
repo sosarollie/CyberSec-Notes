@@ -1,5 +1,3 @@
-### Day 15/365
-
 ##### How do organizations use CTI?
 
 CTI in an organizations is all about adding context and understanding where you sit in the "threat landscape"

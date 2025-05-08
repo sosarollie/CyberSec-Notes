@@ -1,4 +1,3 @@
-#### Day 6/365
 February 2nd
 
 The IPv4 address is a logical network address that identifies a particular host, it must be unique within the LAN for local communication and also unique in the world, for remote communication

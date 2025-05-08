@@ -1,5 +1,3 @@
-## Day 21/365
-
 ##### Payloads
 A payload is what we are going to run as an exploit
 

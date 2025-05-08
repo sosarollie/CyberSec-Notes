@@ -1,5 +1,3 @@
-## Day 28/365
-
 Organized collections of structured information or data easily accessible and able to be manipulated or analyzed.
 
 ##### Relational Databases

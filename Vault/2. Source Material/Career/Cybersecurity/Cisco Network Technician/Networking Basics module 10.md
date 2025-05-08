@@ -1,4 +1,3 @@
-#### Day 7/365
 The depletion of IPv4 address space has been the motivating factor for moving to IPv6. IPv6 has a larger 128-bit address space, providing 340 undecillion possible addresses.
 
 Both IPv4 and IPv6 coexist and the transition to only IPv6 will take several years. The IETF has created various protocols and tools to help network administrators migrate their networks to IPv6. The migration techniques can be divided into three categories: Dual Stack, Tunnelling, and Translation. 

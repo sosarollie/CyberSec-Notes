@@ -1,5 +1,4 @@
-## Day 22/365
-### Summary of the command line options
+Summary of the command line options
 
 |Command|Explanation|
 |---|---|

@@ -1,4 +1,3 @@
-## Day 24/365
 ## Linux shells
 
 Types of shells

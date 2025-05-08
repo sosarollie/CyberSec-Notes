@@ -1,4 +1,3 @@
-## Day 27/365
 Before diving into modules, it would be helpful to clarify a few recurring concepts: vulnerability, exploit, and payload.
 
 - **Exploit:** A piece of code that uses a vulnerability present on the target system.

@@ -1,5 +1,3 @@
-### Day 16/365
-
 ##### Black hat hackers
 
 'The unholy trinity'

@@ -1,4 +1,3 @@
-#### Day 4/365
 25th of January
 
 Protocols are required for computers to properly communicate across the network. These include message format, message size, timing encoding, encapsulation, and message patters.

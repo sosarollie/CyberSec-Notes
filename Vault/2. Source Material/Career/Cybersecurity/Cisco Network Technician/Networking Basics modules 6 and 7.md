@@ -1,4 +1,3 @@
-#### Day 5/365
 26th of January
 
 Modern networks primarily use three types of media to interconnect devices are:

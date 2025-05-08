@@ -1,5 +1,3 @@
-## Day 25/365
-
 Cryptography’s ultimate purpose is to ensure _secure communication in the presence of adversaries_. The term secure includes confidentiality and integrity of the communicated data. Cryptography can be defined as the practice and study of techniques for secure communication and data protection where we expect the presence of adversaries and third parties. In other words, these adversaries should not be able to disclose or alter the contents of the messages.
 
 ![2. Source Material/Career/Images/5f04259cf9bf5b57aed2c476-1725293744539.svg](../../../../../7.%20Images/5f04259cf9bf5b57aed2c476-1725293744539%201.svg)

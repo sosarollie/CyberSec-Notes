@@ -1,5 +1,3 @@
-### Day 12/365
-
 #### TCP
 - acknowledgement of receipt of packets
 - packets have sequence numbers

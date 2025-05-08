@@ -1,4 +1,3 @@
-## Day 26/365
 ## John Basic Syntax
 
 `john [options] [file path]`

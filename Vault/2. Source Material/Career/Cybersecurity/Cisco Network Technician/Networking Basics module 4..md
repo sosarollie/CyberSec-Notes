@@ -1,5 +1,3 @@
-#### Day 3/365
-
 Module 4 goes in depth about how home networks are set up.
 Every home network has at least 2 separate networks, the public one coming from the ISP and the local router connected to the internet. Ethernet port in a router connects to end devices, and the Internet port connects to the signal provided by the ISP, usually a coaxial cable. Modern home router also come with built-in wireless functionality.
 

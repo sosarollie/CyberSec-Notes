@@ -1,5 +1,3 @@
-### Day 09/365
-
 Sometimes a host must send a message, but it only knows the IP address of the destination device. The host needs to know the MAC address of that device. The MAC address can be discovered using address resolution. There are two primary addresses assigned to a device on an Ethernet LAN:
 
 - **Physical address (the MAC address)** – Used for NIC-to-NIC communications on the same Ethernet network.

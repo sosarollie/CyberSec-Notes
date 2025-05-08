@@ -1,5 +1,3 @@
-### Day 11/365
-
 As networks grow, it is often necessary to divide one access layer network into multiple access layer networks. There are many ways to divide networks based on different criteria:
 
 - **Broadcast containment** - Routers in the distribution layer can limit broadcasts to the local network where they need to be heard.

@@ -1,5 +1,3 @@
-# Day 18/365
-
 To expand on the CIA triad that I went over in the arcX course we can add 2 more points
 
 - **Authenticity**: Authentic means not fraudulent or counterfeit. Authenticity is about ensuring that the document/file/data is from the claimed source.

@@ -1,6 +1,3 @@
-#### Day 17/365
-
-##### ==Threat vectors==
 Threat vector
 - 'A path or method via which a threat gains access to a victim computer or network'
 

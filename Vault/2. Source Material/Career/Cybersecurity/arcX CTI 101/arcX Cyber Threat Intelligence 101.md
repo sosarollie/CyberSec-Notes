@@ -1,6 +1,3 @@
-### Day 14/365
-13/2/2025
-
 What is Cyber Threat Intelligence?
 - CTI is the gathering of information from various sources about current or potential threats to an organization
 - But there isn't one single answer, many different things for different people

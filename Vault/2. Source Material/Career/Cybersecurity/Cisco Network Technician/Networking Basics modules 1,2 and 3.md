@@ -1,4 +1,3 @@
-### Day 2/365
 23rd of January.
 Started with Cisco's academy Networking Basics first set of modules.
 

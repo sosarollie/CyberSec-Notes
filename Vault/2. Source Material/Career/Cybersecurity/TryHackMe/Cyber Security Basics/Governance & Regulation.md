@@ -1,5 +1,3 @@
-## Day 19/365
-
 - **Governance**: Managing and directing an organisation or system to achieve its objectives and ensure compliance with laws, regulations, and standards.
 - **Regulation**: A rule or law enforced by a governing body to ensure compliance and protect against harm.
 - **Compliance**: The state of adhering to laws, regulations, and standards that apply to an organisation or system.
