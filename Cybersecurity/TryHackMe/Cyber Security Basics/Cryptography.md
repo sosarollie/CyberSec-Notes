@@ -2,7 +2,7 @@
 
 Cryptography’s ultimate purpose is to ensure _secure communication in the presence of adversaries_. The term secure includes confidentiality and integrity of the communicated data. Cryptography can be defined as the practice and study of techniques for secure communication and data protection where we expect the presence of adversaries and third parties. In other words, these adversaries should not be able to disclose or alter the contents of the messages.
 
-![[5f04259cf9bf5b57aed2c476-1725293744539.svg]]![[5f04259cf9bf5b57aed2c476-1725293763258.svg]]
+![2. Source Material/Career/Images/5f04259cf9bf5b57aed2c476-1725293744539.svg](../../../../../7.%20Images/5f04259cf9bf5b57aed2c476-1725293744539%201.svg)![2. Source Material/Career/Images/5f04259cf9bf5b57aed2c476-1725293763258.svg](../../../../../7.%20Images/5f04259cf9bf5b57aed2c476-1725293763258%201.svg)
 - **Plaintext** is the original, readable message or data before it’s encrypted. It can be a document, an image, a multimedia file, or any other binary data.
 - **Ciphertext** is the scrambled, unreadable version of the message after encryption. Ideally, we cannot get any information about the original plaintext except its approximate size.
 - **Cipher** is an algorithm or method to convert plaintext into ciphertext and back again. A cipher is usually developed by a mathematician.
@@ -22,7 +22,7 @@ Cryptography’s ultimate purpose is to ensure _secure communication in the pres
 
 ---
 ### Diffie-Hellman key exchange
-![[5f04259cf9bf5b57aed2c476-1728439878360.svg]]
+![2. Source Material/Career/Images/5f04259cf9bf5b57aed2c476-1728439878360.svg](../../../../../7.%20Images/5f04259cf9bf5b57aed2c476-1728439878360%201.svg)
 
 ---
 Digital signature = signing a document using a private key or a certificate
